@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 First-year Information Science Engineering student at Bangalore Institute of Technology<br>🌱 Currently learning Data Structures & Algorithms and Machine Learning fundamentals<br>⚡ Fun fact: I enjoy solving logical problems and improving code step by step</p>
+<p align="left">💻 Exploring software development through hands on coding and projects<br>🌱 Currently learning Data Structures & Algorithms and Machine Learning fundamentals<br>⚡ Fun fact: I enjoy solving logical problems and improving code step by step</p>
 
 ###
 
